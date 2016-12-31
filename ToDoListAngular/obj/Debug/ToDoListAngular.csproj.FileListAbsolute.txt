@@ -60,3 +60,16 @@ C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Web.WebPages.Razor.xml
 C:\Projects\AzureApi\src\Azure\ToDoListAngular\obj\Debug\ToDoListAngular.csprojResolveAssemblyReference.cache
 C:\Projects\AzureApi\src\Azure\ToDoListAngular\obj\Debug\ToDoListAngular.dll
 C:\Projects\AzureApi\src\Azure\ToDoListAngular\obj\Debug\ToDoListAngular.pdb
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\ToDoListDataAPI.NuSpec
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\ToDoListDataAPI.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\WebActivatorEx.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\Swashbuckle.Core.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Web.Http.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\Newtonsoft.Json.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Web.Http.WebHost.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Net.Http.Formatting.dll
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\ToDoListDataAPI.pdb
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Web.Http.xml
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\Newtonsoft.Json.xml
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Web.Http.WebHost.xml
+C:\Projects\AzureApi\src\Azure\ToDoListAngular\bin\System.Net.Http.Formatting.xml
