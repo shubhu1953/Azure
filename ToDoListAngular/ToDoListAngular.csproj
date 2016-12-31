@@ -118,6 +118,16 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ToDoListAPI\ToDoListAPI.csproj">
+      <Project>{eb768d2b-e6ef-4c3c-b4d7-5c384054adff}</Project>
+      <Name>ToDoListAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ToDoListDataAPI\ToDoListDataAPI.csproj">
+      <Project>{2b6c8105-9070-4b55-b3e6-8ad271798344}</Project>
+      <Name>ToDoListDataAPI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
